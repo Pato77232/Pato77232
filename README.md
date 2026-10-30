@@ -6,7 +6,7 @@ Me gusta construir software, entender cómo funciona por dentro y aprender hacie
 
 ## Sobre mí
 
-- Estudiante de tercer año, con base sólida en programación, estructuras de datos y bases de datos.
+- Estudiante de cuarto semestre, con base sólida en programación, estructuras de datos y bases de datos.
 - Trabajo principalmente con Java, C++ y tecnologías web.
 - Me interesan la inteligencia artificial y el machine learning, y mi meta es continuar con estudios de posgrado en esta área.
 - Abierto a colaborar en proyectos de software y a aprender de otros desarrolladores.
