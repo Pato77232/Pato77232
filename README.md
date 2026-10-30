@@ -1,3 +1,4 @@
+![Banner](titanfall.png)
 # Hola, soy Edwin 👋
 
 Estudiante de Ingeniería de Software en la Universidad Técnica de Ambato (Ecuador).
