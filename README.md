@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Edwin
 
-<!--
-**Pato77232/Pato77232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ingeniería de Software
 
-Here are some ideas to get you started:
+Estudio Ingeniería de Software en la Universidad Técnica de Ambato (UTA), Ecuador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me apasiona la programación, el desarrollo de software y aprender nuevas tecnologías.
+
+### Sobre mí
+
+- Actualmente estoy fortaleciendo mis conocimientos en programación y desarrollo de software.
+- Me interesa aprender nuevas tecnologías y buenas prácticas de programación.
+- Mi objetivo es convertirme en un profesional capaz de desarrollar soluciones tecnológicas útiles.
+- Me interesa colaborar en proyectos de software.
+
+### ecnologías y herramientas
+
+- **Lenguajes:** Java, Python, C++.
+- **Herramientas:** Git, GitHub y Visual Studio Code.
+- **Conocimientos:** Programación orientada a objetos, estructuras de datos y algoritmos, Bases de datos, .
+
+### Mis proyectos
+
+En mis repositorios encontrarás proyectos académicos y ejercicios de programación desarrollados durante mi formación universitaria.
+
+### Contacto.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-patricio-caraguay-pucha-573b6b3b4/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pato772332/)
+
+⭐ ¡Gracias por visitar mi perfil!
